@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Description
+
+This is a netflix clone I made using React and Firebase.
+
+Link: https://netflix-clone-e64b7.web.app/
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
